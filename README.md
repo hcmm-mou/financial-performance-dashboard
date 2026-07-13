@@ -1,1 +1,3 @@
-# financial-performance-dashboard
+# Jubilee Superstore Financial Performance Dashboard
+
+## Project Overview 
