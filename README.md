@@ -8,6 +8,7 @@
 
 ## Financial Performance Dashboard (Tableau)
 * Jubilee Superstores Ltd interactive financial performance dashboard designed and built using Tableau.
+  
 [View Analysis & Visualisation Design Explaination]()
 
 ![image alt]()
