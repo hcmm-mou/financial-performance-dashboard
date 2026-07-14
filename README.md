@@ -19,4 +19,13 @@
 ### KPI Target vs Actual Performance 
 ![image alt](https://github.com/hcmm-mou/financial-performance-dashboard/blob/8ea95a89129b8ea923e44ee47ce9f53a212e69ee/visualisation/KPI_vs_Actual.png)
 
+### Best Performing Product Categories
+![image alt](https://github.com/hcmm-mou/financial-performance-dashboard/blob/f76c5bf1bb04611aa474a930614850387f3c3cfc/visualisation/best_category_performance.png)
+
+### Primary Customer Groups
+* Filtered by product cateogry 
+
+![image alt](https://github.com/hcmm-mou/financial-performance-dashboard/blob/1a953868041f268d597b47869a47f8c5a27c9b3c/visualisation/customer_groups.png)
+
+
 
