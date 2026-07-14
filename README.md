@@ -11,4 +11,4 @@
   
 [Analysis & Visualisation Design Explaination in Report](https://github.com/hcmm-mou/financial-performance-dashboard/blob/c713bdc7aca241557c1586c8152b2750d0aca67e/report/Financial%20Performance%20Report.pdf)
 
-![image alt]()
+![image alt](https://github.com/hcmm-mou/financial-performance-dashboard/blob/551d244c3b965b01b2d0f2d0eb3457d396456918/visualisation/performance_dashboard.png)
